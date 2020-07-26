@@ -1,7 +1,11 @@
 ---
-title: Visiting Goa
+title: Asian University for women
 date: 2019-09-07T05:43:53.681Z
-tags: 'travel, india, goa'
+subtitle: Asian university for women, a wonderful campus and international
+  quality education. You will feel the truth when you arrive in AUW in the
+  beautiful city of Chittagong!
+cover: /assets/from-sky.jpg
+tags: travel, india, goa
 ---
 Lorem ipsum dolor sit amet, mei in iracundia comprehensam, dicit phaedrum ea vis. Ei purto iusto quo, nonumy honestatis usu no. Eam at lorem audire eligendi. Modus iriure dignissim has in, sed ut liber dicit mediocritatem. Et sed harum graecis, vitae admodum mel et, iracundia referrentur an sea.
 
